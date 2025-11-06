@@ -1,0 +1,60 @@
+body {
+	
+	color: purple;
+	background: linear-gradient(90deg,rgba(255, 191, 238, 1) 0%, rgba(249, 135, 255, 1) 50%, rgba(221, 69, 255, 1) 100%);
+  	font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+
+#rounded {
+	border-radius: 75px;
+}
+
+table {
+	background-color: #b5cfff; 
+	padding: 10px;
+	margin: 10px;
+	border: 2px black solid;
+}
+
+th {
+	color: black;
+}
+
+td {
+	border: 2px black solid;
+	margin: 5px;
+	padding: 10px;
+}
+
+h5 {
+	color: #afff24;
+	font-family: "Times New Roman", Times, serif;
+
+}
+
+ul {
+	background-color: #ebd4b7;
+	width: 250px;	
+}
+
+a:hover {
+	color: red;
+}
+
+h2, h1 {
+	background-color: #bee0fa;
+	padding: 20px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.change-color:hover {
+	background-color: white;
+	color: red;
+	width: 450px;
+}
+
